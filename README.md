@@ -8,6 +8,21 @@ Environment & Sustainability Data Analysis Project
 2. How does temperature variation correlate with electricity consumption across major cities?
 3. Are air pollution levels significantly lower on weekends compared to weekdays?
 
+## Team
+
+- lBebol (Abdelrahman Yasser Hassan Zaky) - 231000102
+- tarek0026 (Tarek Mohamed Mohamed) - 241001750
+- Yehia312 (Yehia Haitham Hassan) - 241000277
+- koka-gamal (Kareem Mohamed Gamal) - 241000245
+- Loaay Ahmed Mohammed - 221001621
+
+## Rules
+
+- All members have equal access
+- Anyone can push directly to main
+- No branch required
+- No PR required
+
 ## Structure
 
 ```
@@ -20,3 +35,10 @@ DataAnalysis/
 ├── .gitignore
 └── README.md
 ```
+
+## Requirements
+
+- Python 3.8+
+- pandas, numpy, matplotlib, seaborn
+- Jupyter
+- scipy
