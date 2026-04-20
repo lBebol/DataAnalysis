@@ -10,18 +10,11 @@ Environment & Sustainability Data Analysis Project
 
 ## Team
 
-- lBebol (Abdelrahman Yasser Hassan Zaky) - 231000102
-- tarek0026 (Tarek Mohamed Mohamed) - 241001750
-- Yehia312 (Yehia Haitham Hassan) - 241000277
-- koka-gamal (Kareem Mohamed Gamal) - 241000245
+- Abdelrahman Yasser Hassan Zaky - 231000102
+- Tarek Mohamed Mohamed - 241001750
+- Yehia Haitham Hassan - 241000277
+- Kareem Mohamed Gamal - 241000245
 - Loaay Ahmed Mohammed - 221001621
-
-## Rules
-
-- All members have equal access
-- Anyone can push directly to main
-- No branch required
-- No PR required
 
 ## Structure
 
