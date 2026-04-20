@@ -1,6 +1,4 @@
-# DataAnalysis
-
-Environment & Sustainability Data Analysis Project
+# Environment & Sustainability Data Analysis Project
 
 ## Team
 
