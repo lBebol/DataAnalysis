@@ -27,20 +27,29 @@ This phase focuses on setting up the project foundation, researching each resear
 ## Folder Structure
 
 ```
-/DataAnalysis/
+DataAnalysis/
 ├── docs/
-│   ├── 01-deliverables.md     ← Member 1
+│   ├── 01-deliverables.md     ← Member 1, lBebol
 │   ├── 02-deliverables.md     ← (Phase 1)
 │   ├── 03-deliverables.md    ← (Phase 2)
 │   ├── 04-deliverables.md    ← (Phase 3)
-│   ├── research-q1.md         ← Member 2
-│   ├── research-q2.md        ← Member 3
-│   ├── research-q3.md        ← Member 4
-│   └── data-sources.md       ← Member 5
+│   ├── research-q1.md         ← Member 2, tarek0026
+│   ├── research-q2.md        ← Member 3, Yehia312
+│   ├── research-q3.md        ← Member 4, koka-gamal
+│   └── data-sources.md       ← Member 5, Loaay Ahmed Mohammed
 ├── data/
+│   ├── q1_green_space_air_quality/
+│   ├── q2_temperature_electricity/
+│   └── q3_weekend_weekday_pollution/
 ├── notebooks/
+│   ├── q1_green_space_air_quality/
+│   ├── q2_temperature_electricity/
+│   └── q3_weekend_weekday_pollution/
 ├── src/
 ├── results/
+│   ├── q1_green_space_air_quality/
+│   ├── q2_temperature_electricity/
+│   └── q3_weekend_weekday_pollution/
 ├── .gitignore
 └── README.md
 ```

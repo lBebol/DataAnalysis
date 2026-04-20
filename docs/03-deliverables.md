@@ -32,7 +32,7 @@ This phase focuses on statistical analysis, hypothesis testing, and creating vis
 - [ ] Run statistical significance test (p-value)
 - [ ] Generate key statistics summary
 - [ ] Save visualizations to `results/q1_green_space_air_quality/`
-- [ ] Document findings in notebook
+- [ ] Create analysis notebook: `notebooks/q1_green_space_air_quality/q1_analysis.ipynb`
 
 ### Member 3 [Yehia312] - Research Q2 Analysis
 - [ ] Calculate HDD and CDD for each city
@@ -41,6 +41,7 @@ This phase focuses on statistical analysis, hypothesis testing, and creating vis
 - [ ] Run statistical significance test
 - [ ] Generate key statistics summary
 - [ ] Save visualizations to `results/q2_temperature_electricity/`
+- [ ] Create analysis notebook: `notebooks/q2_temperature_electricity/q2_analysis.ipynb`
 
 ### Member 4 [koka-gamal] - Research Q3 Analysis
 - [ ] Calculate mean weekend vs weekday pollution
@@ -48,7 +49,8 @@ This phase focuses on statistical analysis, hypothesis testing, and creating vis
 - [ ] Create bar charts comparing weekend/weekday
 - [ ] Analyze time-of-day patterns
 - [ ] Generate key statistics summary
-- [ ] Save visualizations to `results/q3_weekend_weekday/`
+- [ ] Save visualizations to `results/q3_weekend_weekday_pollution/`
+- [ ] Create analysis notebook: `notebooks/q3_weekend_weekday_pollution/q3_analysis.ipynb`
 
 ### Member 5 [Loaay Ahmed Mohammed] - Results Compilation
 - [ ] Compile all results into summary document
@@ -59,13 +61,12 @@ This phase focuses on statistical analysis, hypothesis testing, and creating vis
 
 ## Outputs Required
 
-For each research question:
-
-| Output | Location |
-|--------|-----------|
-| Analysis notebook | `notebooks/q1_analysis.ipynb` / `q2_analysis.ipynb` / `q3_analysis.ipynb` |
-| Visualization charts | `results/qX_*/` |
-| Statistics summary | Embedded in notebook |
+| Member | Research Question | Analysis Notebook | Visualizations |
+|--------|----------------|------------------|----------------|
+| Member 2 | Q1 | `notebooks/q1_green_space_air_quality/q1_analysis.ipynb` | `results/q1_green_space_air_quality/` |
+| Member 3 | Q2 | `notebooks/q2_temperature_electricity/q2_analysis.ipynb` | `results/q2_temperature_electricity/` |
+| Member 4 | Q3 | `notebooks/q3_weekend_weekday_pollution/q3_analysis.ipynb` | `results/q3_weekend_weekday_pollution/` |
+| Member 5 | — | Summary document | — |
 
 ---
 
@@ -73,9 +74,9 @@ For each research question:
 
 | Member | Branch Name | Deliverables |
 |--------|-------------|--------------|
-| Member 2 | `phase2/q1-analysis` | `notebooks/q1_analysis.ipynb`, `results/q1_*` |
-| Member 3 | `phase2/q2-analysis` | `notebooks/q2_analysis.ipynb`, `results/q2_*` |
-| Member 4 | `phase2/q3-analysis` | `notebooks/q3_analysis.ipynb`, `results/q3_*` |
+| Member 2 | `phase2/q1-analysis` | `notebooks/q1_green_space_air_quality/q1_analysis.ipynb`, `results/q1_green_space_air_quality/` |
+| Member 3 | `phase2/q2-analysis` | `notebooks/q2_temperature_electricity/q2_analysis.ipynb`, `results/q2_temperature_electricity/` |
+| Member 4 | `phase2/q3-analysis` | `notebooks/q3_weekend_weekday_pollution/q3_analysis.ipynb`, `results/q3_weekend_weekday_pollution/` |
 | Member 5 | `phase2/compile` | Summary document |
 
 ---
