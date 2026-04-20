@@ -24,11 +24,30 @@ This project investigates three key research questions related to urban environm
 
 ```
 DataAnalysis/
-├── docs/           # Documentation & deliverable files
-├── data/           # Raw and cleaned datasets
-├── notebooks/     # Jupyter notebooks for analysis
-├── src/            # Shared Python modules
-└── results/       # Visualizations & statistical outputs
+├── docs/
+│   ├── 01-deliverables.md     # Phase 0 tasks
+│   ├── 02-deliverables.md    # Phase 1 tasks
+│   ├── 03-deliverables.md   # Phase 2 tasks
+│   ├── 04-deliverables.md   # Phase 3 tasks
+│   ├── research-q1.md       # Q1 documentation
+│   ├── research-q2.md      # Q2 documentation
+│   ├── research-q3.md      # Q3 documentation
+│   └── data-sources.md     # Data source links
+├── data/
+│   ├── q1_green_space_air_quality/
+│   ├── q2_temperature_electricity/
+│   └── q3_weekend_weekday_pollution/
+├── notebooks/
+│   ├── q1_green_space_air_quality/
+│   ├── q2_temperature_electricity/
+│   └── q3_weekend_weekday_pollution/
+├── results/
+│   ├── q1_green_space_air_quality/
+│   ├── q2_temperature_electricity/
+│   └── q3_weekend_weekday_pollution/
+├── src/
+├── .gitignore
+└── README.md
 ```
 
 ## Research Methodology
