@@ -1,0 +1,5 @@
+source green spcae :https://statranker.org/cities-urban-life/top-100-cities-by-green-space-per-capita-2025/#sr-greencities-full
+
+“Green space data was obtained from the most recent available sources. 
+Since it is a relatively stable urban characteristic,
+it is assumed to be consistent over the study period (2023).”
