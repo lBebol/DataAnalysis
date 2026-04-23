@@ -8,13 +8,6 @@ build/
 .venv/
 venv/
 
-# Jupyter
-.ipynb_checkpoints/
-
-# Data
-*.csv
-*.xlsx
-*.parquet
 
 # IDE
 .vscode/
