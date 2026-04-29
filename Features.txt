@@ -1,0 +1,59 @@
+🏙️ City
+Represents the name of the city where the data was collected.
+Used for grouping, comparison, and merging datasets across locations.
+
+📅 Date
+The specific day of the recorded measurements.
+Essential for time-series analysis, trend detection, and forecasting.
+
+🌫️ PM2.5
+Concentration of fine particulate matter (≤ 2.5 micrometers).
+A key air quality indicator due to its severe impact on human health.
+
+🌁 PM10
+Concentration of particulate matter (≤ 10 micrometers).
+Helps identify pollution sources such as dust, construction, and traffic.
+
+🌬️ O3 (Ozone)
+Ground-level ozone concentration.
+Formed by chemical reactions in sunlight; indicates photochemical pollution.
+
+🚗 NO2 (Nitrogen Dioxide)
+Emitted mainly from vehicles and industrial activity.
+Strong indicator of traffic-related air pollution.
+
+🔥 CO (Carbon Monoxide)
+A toxic gas produced by incomplete combustion.
+Important for monitoring hazardous air conditions.
+
+🏭 SO2 (Sulfur Dioxide)
+Produced from burning fossil fuels (coal, oil).
+Contributes to acid rain and respiratory problems.
+
+🌳 Green_Space
+Represents the proportion or availability of green areas in the city.
+Helps reduce pollution and improve air quality.
+
+🌡️ Temperature_mean
+Average daily temperature.
+
+Influences both pollution levels and energy consumption.
+🔥 Temperature_max
+Maximum temperature recorded during the day.
+Useful for analyzing peak electricity demand and extreme weather effects.
+
+💧 Humidity
+Percentage of moisture in the air.
+Affects human comfort and the dispersion of pollutants.
+
+💨 Wind_speed
+Speed of the wind.
+Plays a major role in dispersing or accumulating air pollutants.
+
+🧭 Pressure
+Atmospheric pressure level.
+Used in weather analysis and can indicate stable or unstable air conditions.
+
+⚡ Electricity Consumption
+Total electricity usage for the city on a given day.
+Often used as a target variable in prediction models.

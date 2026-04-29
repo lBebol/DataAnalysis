@@ -150,7 +150,7 @@ def main():
     print(f"\nTotal: {len(all_data)} records")
     
     # Save
-    output = "/home/bebo/Projects/Data Analysis/data collection/electricity_consumption_2023.csv"
+    output = "electricity_consumption_2023.csv"
     
     with open(output, "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=["City", "Date", "Electricity Consumption", "Source"])
