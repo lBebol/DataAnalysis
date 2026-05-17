@@ -344,9 +344,14 @@ def main_app():
     # ============================================================================
     # LOAD MODEL
     # ============================================================================
+    from pathlib import Path
+
     @st.cache_resource
     def load_model():
-        return joblib.load("../../Models/pm25_model_pollution.pkl")
+        BASE_DIR = Path(__file__).resolve().parent
+        MODEL_PATH = BASE_DIR.parent.parent / "Models" / "pm25_model_pollution.pkl"
+
+        return joblib.load(MODEL_PATH)
 
     model = load_model()
 
