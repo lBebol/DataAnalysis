@@ -218,7 +218,7 @@ with st.sidebar:
 # ============================================================================
 st.markdown("""
 <div class="hero-wrap">
-  <div class="hero-title">💧 Environmental Humidity Cluster Prediction</div>
+  <div class="hero-title">💧 Humidity Cluster Prediction System</div>
   <p class="hero-sub">Predict environmental humidity clusters based on air quality metrics</p>
 </div>
 """, unsafe_allow_html=True)

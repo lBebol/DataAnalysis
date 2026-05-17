@@ -7,7 +7,7 @@ import plotly.graph_objects as go
 # PAGE CONFIGURATION & STYLING
 # ============================================================================
 st.set_page_config(
-    page_title="Air Quality Dashboard | PM2.5 Predictor",
+    page_title="Smart PM2.5 Prediction Dashboard",
     page_icon="🌿",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -336,7 +336,7 @@ def main_app():
     # ============================================================================
     st.markdown("""
     <div class="hero-wrap">
-      <div class="hero-title">🌿 Air Quality Dashboard</div>
+      <div class="hero-title">🌿 Smart PM2.5 Prediction Dashboard</div>
       <p class="hero-sub">Predict PM2.5 pollution levels using Machine Learning · Random Forest Regression</p>
     </div>
     """, unsafe_allow_html=True)
@@ -595,5 +595,5 @@ def main_app():
       Machine Learning &amp; Streamlit &nbsp;·&nbsp; Random Forest Regression
     </div>
     """, unsafe_allow_html=True)
-pg = st.navigation([st.Page(main_app, title='Air Quality Dashboard', icon='🌿'), st.Page('Humidity_model_App.py', title='Air quality model', icon='💧')])
+pg = st.navigation([st.Page(main_app, title='Smart PM2.5 Prediction Dashboard', icon='🌿'), st.Page('Humidity_model_App.py', title='Humidity Cluster Prediction System', icon='💧')])
 pg.run()
