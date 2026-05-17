@@ -6,6 +6,18 @@ An AI-powered environmental analytics platform that integrates air quality, weat
 
 ---
 
+# 🚀 Live Application
+
+🌿 Smart Environmental Intelligence Dashboard
+
+An interactive Streamlit application for:
+- PM2.5 pollution prediction
+- Humidity cluster prediction
+- Environmental insights and analysis
+
+🔗 [Open Streamlit App](https://urban-environmental-intelligence-5f83yapjzxqvh6frjpckh4.streamlit.app/)
+
+
 # 📌 Project Overview
 
 This project analyzes how environmental and urban factors interact across different cities during 2023. The analysis focuses on relationships between:
